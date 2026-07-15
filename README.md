@@ -122,19 +122,19 @@ The dashboard transforms raw business data into actionable insights through four
 
 ### Overview
 
-![Overview](Overview.Jpeg)
+![Overview](Overview.jpeg)
 
 ### Marketing
 
-![Marketing](Marketing.Jpeg)
+![Marketing](Marketing.jpeg)
 
 ### Inventory
 
-![Inventory](Inventory.Jpeg)
+![Inventory](Inventory.jpeg)
 
 ### Distribution Center
 
-![Distribution](Distribution.Jpeg)
+![Distribution](Distribution.jpeg)
 
 ---
 
