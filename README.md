@@ -6,6 +6,12 @@ This project presents an interactive E-Commerce Business Intelligence Dashboard 
 
 The dashboard transforms raw business data into actionable insights through four connected pages covering sales, marketing, inventory, and distribution performance.
 
+## Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+**Source:** https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
+
 > **Note:** The original project was built using a dataset containing more than 3 million records. To keep this repository lightweight, only the dashboard screenshots and project documentation are included.
 
 ---
