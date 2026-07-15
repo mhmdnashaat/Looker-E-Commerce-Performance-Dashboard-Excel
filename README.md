@@ -1,5 +1,10 @@
 # Looker E-Commerce Performance Dashboard | Microsoft Excel
 
+### Overview
+
+![Overview](Overview.jpeg)
+
+
 ## Project Overview
 
 This project presents an interactive E-Commerce Business Intelligence Dashboard built in Microsoft Excel with a modern user interface designed in Figma.
