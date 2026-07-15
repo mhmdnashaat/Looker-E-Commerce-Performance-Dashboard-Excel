@@ -157,3 +157,5 @@ The dataset used in this project is publicly available on Kaggle.
 **Mohamed Nashaat**
 
 If you found this project interesting, feel free to connect with me on LinkedIn and check out my other projects.
+## linkedin Profile:
+https://www.linkedin.com/in/mohamed-nashaat-47b685321?utm_source=share_via&utm_content=profile&utm_medium=member_ios
