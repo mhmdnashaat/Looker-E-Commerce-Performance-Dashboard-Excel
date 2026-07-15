@@ -134,7 +134,7 @@ The dashboard transforms raw business data into actionable insights through four
 
 ### Distribution Center
 
-![Distribution](Distribution.jpeg)
+![Distribution_Center](Distribution_Center.jpeg)
 
 ---
 
