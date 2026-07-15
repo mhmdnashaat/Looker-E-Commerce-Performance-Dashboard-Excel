@@ -6,6 +6,9 @@ This project presents an interactive E-Commerce Business Intelligence Dashboard 
 
 The dashboard transforms raw business data into actionable insights through four connected pages covering sales, marketing, inventory, and distribution performance.
 
+## Full Excel Dashboard ( Download ):
+https://drive.google.com/file/d/1HKhs0riW-v90wXWMmAvvcvINc3_j4kOV/view?usp=drive_link
+
 ## Dataset
 
 The dataset used in this project is publicly available on Kaggle.
