@@ -1,2 +1,145 @@
-# Looker-E-Commerce-Performance-Dashboard-Excel
-Interactive E-Commerce Business Intelligence Dashboard built in Microsoft Excel with a modern UI designed in Figma.
+# Looker E-Commerce Performance Dashboard | Microsoft Excel
+
+## Project Overview
+
+This project presents an interactive E-Commerce Business Intelligence Dashboard built in Microsoft Excel with a modern user interface designed in Figma.
+
+The dashboard transforms raw business data into actionable insights through four connected pages covering sales, marketing, inventory, and distribution performance.
+
+> **Note:** The original project was built using a dataset containing more than 3 million records. To keep this repository lightweight, only the dashboard screenshots and project documentation are included.
+
+---
+
+## Dashboard Pages
+
+### Overview
+
+- Revenue Trend
+
+- Total Revenue
+
+- Total Profit
+
+- Average Order Value (AOV)
+
+- Top Product Categories
+
+### Marketing
+
+- Revenue & Profit Analysis
+
+- Profit Margin
+
+- Revenue per Customer
+
+- Brand Performance
+
+- Customer Analysis
+
+### Inventory
+
+- Inventory Units
+
+- Units Sold vs Units in Stock
+
+- Sell-Through Rate
+
+- Inventory Forecast
+
+- Top Selling Brands
+
+### Distribution Center
+
+- Website Traffic Analysis
+
+- Browser Performance
+
+- Marketing Channel Performance
+
+- Delivered, Returned, and Cancelled Orders
+
+---
+
+## Project Highlights
+
+- Cleaned and prepared the dataset for analysis.
+
+- Designed the dashboard interface in **Figma** before implementation.
+
+- Built a fully interactive multi-page dashboard in **Microsoft Excel**.
+
+- Created KPI cards, Pivot Tables, Pivot Charts, and Slicers.
+
+- Developed interactive navigation between dashboard pages.
+
+- Performed sales, marketing, inventory, and distribution analysis.
+
+- Applied inventory forecasting to support business planning.
+
+---
+
+## Business Insights & Recommendations
+
+- Revenue demonstrates a consistent growth trend over time.
+
+- High-performing product categories contribute the majority of total revenue.
+
+- Marketing channel performance highlights opportunities for budget optimization.
+
+- Inventory forecasting supports better stock planning and reduces overstock or stockouts.
+
+- Monitoring delivery, return, and cancellation rates helps improve operational efficiency and customer satisfaction.
+
+---
+
+## Tools & Skills
+
+- Microsoft Excel
+
+- Figma
+
+- Pivot Tables
+
+- Pivot Charts
+
+- Slicers
+
+- Timeline Filters
+
+- Advanced Excel Formulas
+
+- KPI Reporting
+
+- Forecast Analysis
+
+- Dashboard Design
+
+- Data Visualization
+
+---
+
+## Dashboard Preview
+
+### Overview
+
+![Overview](Overview.Jpeg)
+
+### Marketing
+
+![Marketing](Marketing.Jpeg)
+
+### Inventory
+
+![Inventory](Inventory.Jpeg)
+
+### Distribution Center
+
+![Distribution](Distribution.Jpeg)
+
+---
+
+## Author
+
+**Mohamed Nashaat**
+
+If you found this project interesting, feel free to connect with me on LinkedIn and check out my other projects.
